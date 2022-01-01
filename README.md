@@ -8,7 +8,8 @@
     
   **70% of my body is made of games**
   
-  ![Final-Fantasy-XIV-Endwalker-Music-Video](https://user-images.githubusercontent.com/73810942/147845033-79862224-c19a-48b0-85ee-db133122ed03.jpg)
+  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/73810942/147845157-df1aeb26-213a-400e-86c2-2bac413efe00.gif)
+
 
 **What i interested in ❤️**  
 Machine learning 🤖   

@@ -25,5 +25,6 @@ Marketing
 
 I hope to make "SOMETHING COOL" 😆  
 I always do my best in any situation 💪  
-  70% of my body is made of games
+    
+  **70% of my body is made of games**
   </div>

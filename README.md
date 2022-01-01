@@ -6,7 +6,8 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnikel4610&count_bg=%23FF69B4&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Today%27s_Hits&edge_flat=false)](https://hits.seeyoufarm.com)  
     
     
-  **70% of my body is made of games**
+  **70% of my body is made of games**  
+  ENFP
   
   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/73810942/147845157-df1aeb26-213a-400e-86c2-2bac413efe00.gif)
 

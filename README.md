@@ -12,7 +12,7 @@ NFT
 **And also i interested in**  
 Cook  🧑‍🍳  
 Playing a Guitar 🎸  
-Music & Game   🎮    70% of my body is made of games
+Music & Game   🎮    **70% of my body is made of games**  
 Marketing
 
 My Skills (Used at least once)  

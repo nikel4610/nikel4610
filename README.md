@@ -1,17 +1,17 @@
-<<This is Hyun-Woo's Box>>
+                                                    <<This is Hyun-Woo's Box>>
 
 👋 HI! I'm just a kid that insterested in machine learning!
 
 What i interested in ❤️  
-Machine learning :robot:  
-Big Data  
-Block Chain  
+Machine learning 🤖   
+Big Data     
+Block Chain ⛓️    
 NFT  
 
 And also i interested in  
-Cook  
-Playing a Guitar  
-Music & Game   
+Cook  🧑‍🍳  
+Playing a Guitar 🎸  
+Music & Game   🎮  
 Marketing
 
 My Skills (Used at least once)  

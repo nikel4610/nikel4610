@@ -36,8 +36,9 @@ Marketing
 I hope to make "SOMETHING COOL" 😆  
 I always do my best in any situation 💪   
     
-  **Be my friend! (If you want ❤️😉)**  
-    nikel4610@gmail.com  
+  **Be my friend! (If you want 😉❤️)**  
+    nikel4610@gmail.com    
+  **or**  
   <a href="https://www.instagram.com/nikel4610/">
     <img 
         src="http://img.shields.io/badge/Instagram-e4405f?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/nikel4610/"

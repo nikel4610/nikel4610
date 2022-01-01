@@ -35,7 +35,7 @@ Marketing
 I hope to make "SOMETHING COOL" 😆  
 I always do my best in any situation 💪   
     
-  **connections (If you want 😉)**  
+  **connections (Be my friend! 😉)**  
     nikel4610@gmail.com  
   <a href="https://www.instagram.com/nikel4610/">
     <img 

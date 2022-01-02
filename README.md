@@ -18,7 +18,7 @@ Big Data
 Block Chain ⛓️    
 NFT  
 
-**And also i interested in**  
+**And i also interested in**  
 Cook  🧑‍🍳  
 Playing a Guitar 🎸  
 Music & Game   🎮    

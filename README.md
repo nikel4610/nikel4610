@@ -38,11 +38,11 @@ I always do my best in any situation 💪
   **Be my friend! (If you want 😉❤️)**  
     nikel4610@gmail.com    
   **or**  
-  <a href="https://www.instagram.com/nikel4610/">
+  <a href="https://www.instagram.com/nikel4610/"> 
     <img 
         src="http://img.shields.io/badge/Instagram-e4405f?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/nikel4610/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>  
+</a>  <-- click!
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikel4610&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </div>

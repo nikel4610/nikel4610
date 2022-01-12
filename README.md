@@ -29,7 +29,10 @@ Marketing
   <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4a154b?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092e20?style=flat-square&logo=Django&logoColor=white"/> 
     
   **I learning these things right now**    
-  <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00add8?style=flat-square&logo=Go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/>   
+  
+  **I'm interested in these things**  
+  <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00add8?style=flat-square&logo=Go&logoColor=white"/>
   
 
 I hope to make "SOMETHING COOL" 😆  

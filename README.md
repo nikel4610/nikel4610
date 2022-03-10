@@ -48,5 +48,8 @@ I always do my best in any situation 💪
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>  <-- click!
     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikel4610&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikel4610&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+            [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nikel4610)](https://solved.ac/nikel4610)
+  </div>  
+

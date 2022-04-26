@@ -20,7 +20,7 @@ Web-Design (React.js)
 ### **And i also interested in**  
 Cook  🧑‍🍳  
 Playing a Guitar 🎸  
-Music & Game   🎮    
+Music & Games  🎮    
 Marketing
 
 **:thumbsup: My Skills (Used at least once)**    

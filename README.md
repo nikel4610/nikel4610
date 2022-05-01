@@ -14,7 +14,7 @@
 
 ### **❤️What i interested in❤️**  
 Machine learning 🤖   
-Big Data     
+Data Analyst     
 Web-Design (React.js)
 
 ### **And i also interested in**  

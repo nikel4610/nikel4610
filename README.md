@@ -7,7 +7,8 @@
     
     
   **70% of my body is made of games**  
-  **ENFJ**
+  **ENFJ**  
+  [Everyday Routine Check](https://github.com/nikel4610/Everyday_Morning_Check)
   
   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/73810942/147845157-df1aeb26-213a-400e-86c2-2bac413efe00.gif)
 

@@ -8,7 +8,8 @@
      
   **ENFP**  
   *Believe in MySelf*
-  ### [Everyday Routine Check](https://github.com/nikel4610/Everyday_Morning_Check)
+  ### [Everyday Routine Check](https://github.com/nikel4610/Everyday_Morning_Check)  
+  ### [My Notion](https://www.notion.so/08817662278542189d87382ec136fec5)
   
   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/73810942/147845157-df1aeb26-213a-400e-86c2-2bac413efe00.gif)
 
@@ -42,6 +43,6 @@
 
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nikel4610)](https://solved.ac/nikel4610)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikel4610&layout=compact&hide=jupyter%20notebook&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
-   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikel4610&layout=compact&hide=jupyter%20notebook&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)  
+        
 </div>

@@ -10,8 +10,9 @@
   *Believe in MySelf*
   ### [Everyday Routine Check](https://github.com/nikel4610/Everyday_Morning_Check)  
   ### [My Notion](https://www.notion.so/08817662278542189d87382ec136fec5)
+  ![11](https://user-images.githubusercontent.com/73810942/188059747-134d68aa-1f18-42d1-9253-74161848aacb.PNG)
+
   
-  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/73810942/147845157-df1aeb26-213a-400e-86c2-2bac413efe00.gif)
 
  </div> 
   

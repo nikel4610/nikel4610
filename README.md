@@ -42,7 +42,8 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>  
 
-  ![Hyun-woo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikel4610&show_icons=true&theme=tokyonight)
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nikel4610)](https://solved.ac/nikel4610)
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikel4610&layout=compact&hide=jupyter%20notebook&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)  
         
 </div>

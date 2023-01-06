@@ -8,7 +8,7 @@
      
   **ENFP**  
   *Believe in MySelf*
-  ### [My Notion](https://righteous-kileskus-db8.notion.site/08817662278542189d87382ec136fec5)
+  # [My Notion](https://righteous-kileskus-db8.notion.site/08817662278542189d87382ec136fec5)
   ![11](https://user-images.githubusercontent.com/73810942/188059747-134d68aa-1f18-42d1-9253-74161848aacb.PNG)
 
   

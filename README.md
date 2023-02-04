@@ -41,7 +41,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nikel4610)](https://solved.ac/nikel4610)
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikel4610&layout=compact&hide=jupyter%20notebook&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)    
       
-  **2022 commits**  
+  **2022 Commits**  
   ![캡처](https://user-images.githubusercontent.com/73810942/216738882-332d5aac-8b01-4d28-8efb-401023557b4d.PNG)
 
         

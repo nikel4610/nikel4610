@@ -20,10 +20,6 @@
   **:thumbsup: My Skills**    
   ----
 <img src="https://img.shields.io/badge/Python-4381b3?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-e95428?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=Android&logoColor=white"/>       <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4a154b?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
-    
-  **I learning these things**    
-  ----
-  <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=black"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E28?style=flat-square&logo=Django&logoColor=white"/>
   
   **I want to learn these things someday** 
   ---- 
@@ -43,6 +39,10 @@
 
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nikel4610)](https://solved.ac/nikel4610)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikel4610&layout=compact&hide=jupyter%20notebook&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)  
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikel4610&layout=compact&hide=jupyter%20notebook&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)    
+      
+  **2022 commits**  
+  ![캡처](https://user-images.githubusercontent.com/73810942/216738882-332d5aac-8b01-4d28-8efb-401023557b4d.PNG)
+
         
 </div>
